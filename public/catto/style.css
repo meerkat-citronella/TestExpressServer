@@ -1,0 +1,13 @@
+body {
+    background-image: url('cat.png');
+    font-size: 3em;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hello-enclosure {
+    margin: auto;
+    padding-top: 10vmin;
+    width: 90vmin;
+}

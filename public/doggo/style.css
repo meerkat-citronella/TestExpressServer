@@ -1,0 +1,14 @@
+body {
+    background-image: url('doggo.png');
+    font-size: 3em;
+    color: mistyrose;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content-container2 {
+    margin: 10vmin;
+}
+.content-container1 {
+    margin: 40vmin;
+}
